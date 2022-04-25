@@ -1,1 +1,1 @@
-TOKEN = '5274400307:AAHt1LGfyXUVUGuqFqECcnMOPVpLanKcgec'
+TOKEN = 'your bot token'
